@@ -1,0 +1,8 @@
+# https://www.jetbrains.com/help/rider/HTTP_Response_Handling_Examples.html
+
+POST http://localhost:5177/test/anon/remote/path?a=b
+Accept: application/json
+
+{
+    "test": "test"
+}

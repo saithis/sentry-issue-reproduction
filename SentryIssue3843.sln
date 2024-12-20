@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentryIssue3843", "SentryIssue3843\SentryIssue3843.csproj", "{ACBFDF75-9670-4221-8B0C-EF6281CDDFA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBFDF75-9670-4221-8B0C-EF6281CDDFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBFDF75-9670-4221-8B0C-EF6281CDDFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBFDF75-9670-4221-8B0C-EF6281CDDFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBFDF75-9670-4221-8B0C-EF6281CDDFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
